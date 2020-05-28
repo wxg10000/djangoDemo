@@ -5,6 +5,13 @@
       <paths name="root@118.190.58.79:22">
         <serverdata>
           <mappings>
+            <mapping deploy="/data/pycharm/pycharm" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@118.190.58.79:22 (1)">
+        <serverdata>
+          <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
