@@ -77,7 +77,7 @@ six==1.10.0
 sqlparse==0.3.1
 tablib==2.0.0
 texttable==1.6.2
-urllib3==1.25.10
+urllib3==1.26.5
 virtualenv==20.0.21
 virtualenv-clone==0.5.4
 Werkzeug==1.0.1
