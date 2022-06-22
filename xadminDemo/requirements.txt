@@ -46,7 +46,7 @@ MarkupPy==1.14
 MarkupSafe==1.0
 matplotlib==3.3.2
 mysql-connector-python==8.0.20
-numpy==1.19.1
+numpy==1.22.0
 odfpy==1.4.1
 openpyxl==3.0.5
 pandas==1.1.1
