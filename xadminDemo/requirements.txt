@@ -7,7 +7,7 @@ asgiref==3.2.10
 billiard==3.3.0.23
 captcha==0.3
 celery==3.1.25
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.2
 ClusterShell==1.8.3
